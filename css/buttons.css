@@ -1,0 +1,9 @@
+.specialDiv {
+                background-color: rgb(123, 123, 231);
+                border: .5rem solid white;
+                margin: 1rem;
+                padding: 1rem;
+                width: 50%;
+                color: white;
+}
+body { background-color: lightgray;}
